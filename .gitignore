@@ -1,0 +1,13 @@
+# Python
+__pycache__/
+*.py[cod]
+*$py.class
+venv/
+.env
+
+# 上传的文件
+backend/uploads/
+
+# IDE
+.vscode/
+.idea/
